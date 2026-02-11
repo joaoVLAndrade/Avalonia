@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Demo/Demo.csproj" />
+  <Project Path="MVP_Template/MVPTemplate.csproj" Id="f3a2996a-0360-43f2-a8b0-a14b56703c05" />
+  <Project Path="TestWidgets/TestWidgets.csproj" Id="dd34f44c-9e13-4070-931a-46f17a263d73" />
+</Solution>
